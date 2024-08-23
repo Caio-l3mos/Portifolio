@@ -30,19 +30,9 @@ const Social = () => {
     href: 'https://github.com/Caio-l3mos',
    
 
-  },{
-    id: 3, 
-    child: (
-      <>
-        Email <HiOutlineMail size={30} />
-      </>
-    ),
-    href: 'mailto',
-
-
   },
   {
-    id: 4, 
+    id: 3, 
     child: (
       <>
         Resumo <BsFillPersonLinesFill size={30} />
