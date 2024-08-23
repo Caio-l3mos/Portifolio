@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from '../assets/home.jpg'
-import {MdKeyboardArrowRight} from 'react-icons/md'
+
 
 
 
